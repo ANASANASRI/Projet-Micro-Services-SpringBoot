@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Projet-Micro-Services-SpringBoot">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/billing-service.zip!/" />
+      <root url="jar://$PROJECT_DIR$/gateway-service.zip!/" />
+      <root url="jar://$PROJECT_DIR$/product-service.zip!/" />
+      <root url="jar://$PROJECT_DIR$/config-service.zip!/" />
+      <root url="jar://$PROJECT_DIR$/customer-service.zip!/" />
+      <root url="jar://$PROJECT_DIR$/order-service.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
